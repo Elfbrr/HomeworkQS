@@ -11,6 +11,7 @@ public class Question4 {
         num5 = sc.nextInt();
         if (num5 % 2 == 0) {
             System.out.println(num5 + " is a even number");
+            System.out.println("This is a first line");
         } else {
             System.out.println(num5 + "  is a odd number");
         }
